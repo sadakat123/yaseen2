@@ -1,2 +1,3 @@
-# yaseen2
-hello every one welcome to my github account
+git remote add origin https://github.com/sadakat123/yaseen.git
+git branch -M main
+git push -u origin main
